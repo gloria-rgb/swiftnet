@@ -118,7 +118,7 @@
       background-color: #e7dfdc;
     }
     .card {
-      background: rgb(0, 255, 0);
+      background-color: var(--primary);
       height: auto;
      flex-grow: 1;
      flex-shrink: 1;
