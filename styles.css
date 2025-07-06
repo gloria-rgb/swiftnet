@@ -58,7 +58,7 @@
         display: flex;
         min-height: 300px;
         flex-direction: column;
-      background: linear-gradient(to top, rgb(255, 0, 0), #fff );
+      background: linear-gradient(to top, rgb(0, 255, 0), #fff );
       text-align: center;
       padding: 4rem 2rem;
       animation: fade-in 0.5s ease forwards;
@@ -118,7 +118,7 @@
       background-color: #e7dfdc;
     }
     .card {
-      background: #a99696;
+      background: rgb(0, 255, 0);
       height: auto;
      flex-grow: 1;
      flex-shrink: 1;
